@@ -110,4 +110,6 @@ Build modern, scalable and data-oriented web applications combining:
 
 ---
 
-![snake gif](https://github.com/brunofreitas1/brunofreitas1/blob/output/github-contribution-grid-snake.svg)
+🐍 ACTIVITY
+
+![snake gif](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
