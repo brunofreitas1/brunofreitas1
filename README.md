@@ -8,11 +8,11 @@ Frontend Developer in progress • Data Engineering Background • AWS Cloud
 
 ## 🚀 About Me
 
-💻 Desenvolvedor focado em Frontend moderno e interfaces responsivas.
+💻 Frontend developer focused on modern and responsive interfaces.
 
-📊 Background sólido em Engenharia de Dados e Cloud AWS.
+📊 Strong background in Data Engineering and AWS Cloud.
 
-🎯 Atualmente estudando:
+🎯 Currently learning and improving skills in:
 - React
 - Next.js
 - TypeScript
@@ -70,14 +70,21 @@ Fullstack application consuming external APIs for personalized recommendations.
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofreitas1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+height="170em"
+src="https://github-readme-stats.vercel.app/api?username=brunofreitas1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofreitas1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofreitas1&layout=compact&langs_count=8&theme=tokyonight"
+/>
 
 </div>
-
 ---
 
 ## 🌎 Connect with me
