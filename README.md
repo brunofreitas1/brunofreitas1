@@ -107,3 +107,7 @@ Build modern, scalable and data-oriented web applications combining:
 - user experience,
 - cloud architecture,
 - and data engineering expertise.
+
+---
+
+![snake gif](https://github.com/brunofreitas1/brunofreitas1/blob/output/github-contribution-grid-snake.svg)
