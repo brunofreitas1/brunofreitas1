@@ -93,9 +93,13 @@ Projeto fullstack consumindo API externa para recomendação personalizada de jo
 
 ## 📈 GitHub Stats
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofreitas1\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofreitas1\&layout=compact\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunofreitas1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofreitas1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
