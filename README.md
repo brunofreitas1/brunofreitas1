@@ -70,8 +70,6 @@ Fullstack application consuming external APIs for personalized recommendations.
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
 
 <img
@@ -85,6 +83,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofreitas
 />
 
 </div>
+
 ---
 
 ## 🌎 Connect with me
